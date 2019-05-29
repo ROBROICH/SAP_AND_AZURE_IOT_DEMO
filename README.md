@@ -26,7 +26,7 @@ The intention is to have a repeatable and public SAP and Azure IoT demo based on
 
 * For excel users the current sales order SAP ECC will be displayed in Excel 
 
-1
+
 # Introduction 
 
 This demo is a basic extension of an existing Azure IoT tutorial to demonstrate SAP connectivity leveraging a public SAP Gateway demo system. 
@@ -67,7 +67,7 @@ The following steps are required to implement the demo:
 
 * Implement Raspberry PI emulator tutorial ([Link](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started))
 
-* Implement IoT remote monitoring and notifications with Azure Logic Apps connecting your IoT hub and mailbox tutorial ([Link](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-monitoring-notifications-with-azure-logic-apps)) _ Stop at the paragraph “Configure the logic app trigger”_
+* Implement IoT remote monitoring and notifications with Azure Logic Apps connecting your IoT hub and mailbox tutorial ([Link](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-monitoring-notifications-with-azure-logic-apps))  Stop at the paragraph “Configure the logic app trigger”
 
 # Demo implementation
 
