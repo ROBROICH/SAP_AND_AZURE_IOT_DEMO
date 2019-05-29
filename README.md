@@ -26,6 +26,103 @@ The intention is to have a repeatable and public SAP and Azure IoT demo based on
 
 * For excel users the current sales order SAP ECC will be displayed in Excel 
 
+1
+# Introduction 
+2
+​
+3
+This demo is a basic extension of an existing Azure IoT tutorial to demonstrate SAP connectivity leveraging a public SAP Gateway demo system. 
+4
+​
+5
+The intention is to have a repeatable and public SAP and Azure IoT demo based on:
+6
+​
+7
+* Azure Raspberry emulator
+8
+​
+9
+* Azure IoT Hub and Logic App
+10
+​
+11
+* Public SAP demo system 
+12
+​
+13
+​
+14
+​
+15
+​
+16
+​
+17
+![Demo high level overview](https://github.com/ROBROICH/REPO1/blob/master/images/DEMO_ARCHITECTURE.jpg)
+18
+​
+19
+# Demo scenario and basic story line 
+20
+​
+21
+* Imagine the Raspberry Emulator as IoT device used in shipping of heat-sensitive vaccines
+22
+​
+23
+* If the temperature is measured above 30°, the vaccine is damaged and must be replaced  
+24
+​
+25
+* To replace the vaccine, a sales order is automatically created in SAP ECC in case the measured temperature is above 30° 
+26
+​
+27
+* For excel users the current sales order SAP ECC will be displayed in Excel 
+28
+​
+29
+# Demo implementation
+30
+​
+31
+The following steps are required to implement the demo:
+32
+* Raspberry PI emulator
+33
+​
+34
+* Notifications with Azure Logic Apps
+35
+​
+36
+* Get access to public SAP system
+37
+​
+38
+* Adjust Logic-App
+39
+​
+40
+* Show sales order in Excel
+41
+​
+42
+![Demo flow](https://github.com/ROBROICH/REPO1/blob/master/images/DEMO_FLOW.jpg)
+43
+​
+44
+## Raspberry PI emulator & Notifications with Azure Logic Apps
+45
+​
+46
+* Implement Raspberry PI emulator tutorial ([Link](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started))
+47
+​
+48
+* Implement IoT remote monitoring and notifications with Azure Logic Apps connecting your IoT hub and mailbox tutorial ([Link](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-monitoring-notifications-with-azure-logic-apps)) _ Stop at the paragraph “Configure the logic app trigger”_
+
 # Demo implementation
 
 The following steps are required to implement the demo:
@@ -172,4 +269,6 @@ Connect to Odata datasource
 Display results: 
 
 ![Result](https://github.com/ROBROICH/REPO1/blob/master/images/excel1.png)
+
+## Demo finished!
 
