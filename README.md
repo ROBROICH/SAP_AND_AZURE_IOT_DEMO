@@ -18,26 +18,26 @@ The intention is to have a repeatable and public SAP and Azure IoT demo based on
 
 # Demo scenario and basic story line 
 
--Imagine the Raspberry Emulator as IoT device used in shipping of heat-sensitive vaccines
+* Imagine the Raspberry Emulator as IoT device used in shipping of heat-sensitive vaccines
 
--If the temperature is measured above 30°, the vaccine is damaged and must be replaced  
+* If the temperature is measured above 30°, the vaccine is damaged and must be replaced  
 
--To replace the vaccine, a sales order is automatically created in SAP ECC in case the measured temperature is above 30° 
+* To replace the vaccine, a sales order is automatically created in SAP ECC in case the measured temperature is above 30° 
 
--For excel users the current sales order SAP ECC will be displayed in Excel 
+* For excel users the current sales order SAP ECC will be displayed in Excel 
 
 # Demo implementation
 
 The following steps are required to implement the demo:
--Raspberry PI emulator
+* Raspberry PI emulator
 
--Notifications with Azure Logic Apps
+* Notifications with Azure Logic Apps
 
--Get access to public SAP system
+* Get access to public SAP system
 
--Adjust Logic-App
+* Adjust Logic-App
 
--Show sales order in Excel
+* Show sales order in Excel
 
 ![Demo flow](https://github.com/ROBROICH/REPO1/blob/master/images/DEMO_FLOW.jpg)
 
