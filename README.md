@@ -51,7 +51,7 @@ The following steps are required to implement the demo:
 
 * Get access to SAP Gateway demo system([Link](https://blogs.sap.com/2017/12/05/new-sap-gateway-demo-system-available/comment-page-1/))
 
-* Get familiar with [GWSampleBasic](https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC/SalesOrderSet?(%270500000001%27)/ToLineItems)Odata Service ([Visual-Code REST Client](https://github.com/Huachao/vscode-restclient))
+* Get familiar with [GWSampleBasic](https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC/SalesOrderSet?(%270500000001%27)/ToLineItems) Odata Service ([Visual-Code REST Client](https://github.com/Huachao/vscode-restclient))
 
 Coding for VSCode Restclient
 
@@ -78,7 +78,7 @@ Content-Type: application/json
    "SalesOrderID" : "0500000011",
     "Note" : "SAP MFST DEMO 1234",
 	"NoteLanguage" : "E",
-	"CustomerID" : "0100000000",
+	"CustomerID" : "0100000010",
 	"CustomerName" : "SAP",
 	"CurrencyCode" : "EUR",
 	"GrossAmount" : "99",
