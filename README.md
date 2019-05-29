@@ -4,11 +4,12 @@ This demo is a basic extension of an existing Azure IoT tutorial to demonstrate 
 
 The intention is to have a repeatable and public SAP and Azure IoT demo based on:
 
-- Azure Raspberry emulator
+* Azure Raspberry emulator
 
--Azure IoT Hub and Logic App
+* Azure IoT Hub and Logic App
 
--Public SAP demo system 
+* Public SAP demo system 
+
 
 
 
