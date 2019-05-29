@@ -14,7 +14,7 @@ The intention is to have a repeatable and public SAP and Azure IoT demo based on
 
 
 
-![Demo high level overview](https://github.com/ROBROICH/REPO1/blob/master/images/DEMO_ARCHITECTURE.jpg)
+![Demo high level overview](https://github.com/ROBROICH/REPO1/blob/master/images/DEMO_ARCHITECTURE1.jpg)
 
 # Demo scenario and basic story line 
 
@@ -215,6 +215,12 @@ Connect to Odata datasource
 Display results: 
 
 ![Result](https://github.com/ROBROICH/REPO1/blob/master/images/excel1.png)
+
+## Display data in PowerBI
+Next to Excel, the OData connector of PowerBI can be used to display the data:
+
+![PowerBI](https://github.com/ROBROICH/REPO1/blob/master/images/PowerBI.png)
+
 
 ## Demo finished!
 
