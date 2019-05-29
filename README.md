@@ -41,27 +41,6 @@ The following steps are required to implement the demo:
 
 * Implement IoT remote monitoring and notifications with Azure Logic Apps connecting your IoT hub and mailbox tutorial ([Link](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-monitoring-notifications-with-azure-logic-apps))  Stop at the paragraph “Configure the logic app trigger”
 
-# Demo implementation
-
-The following steps are required to implement the demo:
-* Raspberry PI emulator
-
-* Notifications with Azure Logic Apps
-
-* Get access to public SAP system
-
-* Adjust Logic-App
-
-* Show sales order in Excel
-
-![Demo flow](https://github.com/ROBROICH/REPO1/blob/master/images/DEMO_FLOW.jpg)
-
-## Raspberry PI emulator & Notifications with Azure Logic Apps
-
-* Implement Raspberry PI emulator tutorial ([Link](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started))
-
-* Implement IoT remote monitoring and notifications with Azure Logic Apps connecting your IoT hub and mailbox tutorial ([Link](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-monitoring-notifications-with-azure-logic-apps)) _ Stop at the paragraph “Configure the logic app trigger”_
-
 ## Access to public SAP demo system
 
 * Get access to SAP Gateway demo system([Link](https://blogs.sap.com/2017/12/05/new-sap-gateway-demo-system-available/comment-page-1/))
