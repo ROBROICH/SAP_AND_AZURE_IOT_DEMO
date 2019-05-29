@@ -1,31 +1,3 @@
-# Introduction 
-
-This demo is a basic extension of an existing Azure IoT tutorial to demonstrate SAP connectivity leveraging a public SAP Gateway demo system. 
-
-The intention is to have a repeatable and public SAP and Azure IoT demo based on:
-
-* Azure Raspberry emulator
-
-* Azure IoT Hub and Logic App
-
-* Public SAP demo system 
-
-
-
-
-
-![Demo high level overview](https://github.com/ROBROICH/REPO1/blob/master/images/DEMO_ARCHITECTURE1.jpg)
-
-# Demo scenario and basic story line 
-
-* Imagine the Raspberry Emulator as IoT device used in shipping of heat-sensitive vaccines
-
-* If the temperature is measured above 30°, the vaccine is damaged and must be replaced  
-
-* To replace the vaccine, a sales order is automatically created in SAP ECC in case the measured temperature is above 30° 
-
-* For excel users the current sales order SAP ECC will be displayed in Excel 
-
 
 # Introduction 
 
