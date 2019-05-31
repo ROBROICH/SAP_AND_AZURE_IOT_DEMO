@@ -174,4 +174,6 @@ Next to Excel, the OData connector of PowerBI can be used to display the data:
 
 
 ## Demo finished!
+[Overview presentation](https://github.com/ROBROICH/SAP_AND_AZURE_IOT_DEMO/blob/master/media/20190519_SAP_AND_IOT.pdf)
+
 
