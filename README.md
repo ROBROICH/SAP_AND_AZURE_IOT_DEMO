@@ -31,7 +31,7 @@ The following steps are required to implement the demo:
 * Notifications with Azure Logic Apps
 * Get access to public SAP system
 * Adjust Logic-App
-* Show sales order in Excel
+* Show sales order in Excel or Power BI
 
 ![Demo flow](https://github.com/ROBROICH/REPO1/blob/master/images/DEMO_FLOW.jpg)
 
