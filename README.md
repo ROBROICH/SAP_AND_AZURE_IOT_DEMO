@@ -43,6 +43,8 @@ The following steps are required to implement the demo:
 
 ## Access to public SAP demo system
 
+* Prerequisite: S-User or user for ([SAP Community](https://community.sap.com/)). In case required sign-up for a user. 
+ 
 * Get access to SAP Gateway demo system([Link](https://blogs.sap.com/2017/12/05/new-sap-gateway-demo-system-available/comment-page-1/))
 
 * Get familiar with [GWSampleBasic](https://sapes5.sapdevcenter.com/sap/opu/odata/iwbep/GWSAMPLE_BASIC/SalesOrderSet?(%270500000001%27)/ToLineItems) Odata Service ([Visual-Code REST Client](https://github.com/Huachao/vscode-restclient))
