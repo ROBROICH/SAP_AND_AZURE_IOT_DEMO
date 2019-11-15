@@ -115,6 +115,7 @@ User/Pwd: Credentials for SAP demo system
 
 * Append a HTTP POST Action to the GET-request 
 * The logic app creates an SAP sales order via the Odata Gateway
+* Caution! The formula @outputs('GET') refers to the name of the previous HTTP element. Please be aware of the references.  
 
 ```
 Headers: 
