@@ -96,7 +96,7 @@ Content-Type: application/json
 Remark: Without the support of Bartosz Jarkowski the demo would end here. Further details [here](https://blogs.sap.com/2019/05/28/your-sap-on-azure-part-18-the-story-of-a-missing-csrf-token/). 
 
 Finish the [tutorial](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-monitoring-notifications-with-azure-logic-apps) until : Configure the logic app trigger / 5. Create a service bus connection.
-Instead of creating an STMP connection, create a HTTP GET Action
+Instead of creating an SMTP connection, create a HTTP GET Action
 
 ### GET Request 
 
