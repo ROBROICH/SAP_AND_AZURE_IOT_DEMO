@@ -123,7 +123,8 @@ Headers:
 "x-csrf-token": "@outputs('GET')['headers']['x-csrf-token']"
 
 Body:
-                        "BillingStatus": "",
+                      {
+		       "BillingStatus": "",
                         "BillingStatusDescription": "Initial",
                         "ChangedAt": "2014-10-10T00:00:00",
                         "CreatedAt": "2012-10-10T00:00:00",
@@ -140,6 +141,7 @@ Body:
                         "NoteLanguage": "E",
                         "SalesOrderID": "0500000011",
                         "TaxAmount": "200"
+			}
 
 Cookie: 
 @{replace(outputs('GET')['headers']['Set-cookie'], ',', ';')}
