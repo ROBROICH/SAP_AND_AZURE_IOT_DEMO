@@ -39,7 +39,7 @@ The following steps are required to implement the demo:
 
 * Implement Raspberry PI emulator tutorial ([Link](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started))
 
-* Implement IoT remote monitoring and notifications with Azure Logic Apps connecting your IoT hub and mailbox tutorial ([Link](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-monitoring-notifications-with-azure-logic-apps))  Stop at the paragraph “Configure the logic app trigger”
+* Implement IoT remote monitoring and notifications with Azure Logic Apps connecting your IoT hub and mailbox tutorial ([Link](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-monitoring-notifications-with-azure-logic-apps))  Finish the paragraph “Configure the logic app trigger” and continue with the GitHub tutorial (here)
 
 ## Access to public SAP demo system
 
