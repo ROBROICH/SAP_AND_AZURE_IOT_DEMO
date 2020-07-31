@@ -1,5 +1,5 @@
 
-# Introduction to the SAP and Azure IOT Demo
+# Introduction to the SAP and Azure IoT Demo
 
 This demo is a basic extension of an existing Azure IoT tutorial to demonstrate SAP connectivity leveraging a public SAP Gateway demo system. 
 
